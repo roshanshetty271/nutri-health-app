@@ -1,4 +1,4 @@
-# NutriHealth: Add Fuel to Your Fitness Journey
+# NutriHealth: Add Fuel to Your Fitness Journey (FIGMA)
 
 ## Project Overview
 
@@ -62,8 +62,19 @@ NutriHealth offers:
 - **Sushma Mangalampati**
 - **Hemanth Narsupalli**
 
+## Screenshots
+
+<img width="551" alt="image" src="https://github.com/user-attachments/assets/4acb196b-9a0c-4fac-9798-ecf4a3b8d58f">
+<img width="542" alt="image" src="https://github.com/user-attachments/assets/132ebc35-c9fe-4a37-a44c-f29edb142d5d">
+<img width="538" alt="image" src="https://github.com/user-attachments/assets/de070492-8a3f-4201-8eb7-24c0b4088a15">
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/6dd23221-940d-4c86-98d4-7b89c5c6a7b9">
+
+
 ## Links
 
 - [Figma Prototype](https://www.figma.com/file/OfH1XlvQx5xQbx8NpygaoX/NutriHealth_FinalProject_Group2?type=design&node-id=0%3A1&mode=design&t=T4G75AUa1V6LkYjs-1)
 - [Figma Information Architecture](https://www.figma.com/file/68o3tP0aD5aPk1eZf3k6Ok/Group2_NutriHealth?type=whiteboard&node-id=0%3A1&t=c6wJU589pwgF9cen-1)
+- [Moqups Prototype] (https://app.moqups.com/8WEnJD3ugCMxfBmsmrlb26kYoNrcTBFS/view/page/aaeb3632c)
+
+
 
